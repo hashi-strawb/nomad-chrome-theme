@@ -1,6 +1,6 @@
 # Unofficial HashiCorp Nomad Chrome Theme
 
-![Nomad Chrome Theme](theme.png "Nomad Chrome Theme")
+![Nomad Chrome Theme](theme-93164c7.png "Nomad Chrome Theme")
 
 
 ## Install
